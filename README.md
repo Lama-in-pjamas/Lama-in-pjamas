@@ -2,7 +2,7 @@
 - 👀 I’m interested in art and desining cool stuff
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on game design and coding projects
-- 📫 How to reach me ...
+- 📫 How to reach me discord: Lama_in_Pjamas#9028
 
 <!---
 Lama-in-pjamas/Lama-in-pjamas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
